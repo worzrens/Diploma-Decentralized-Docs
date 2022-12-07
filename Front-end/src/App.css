@@ -1,0 +1,14 @@
+.metamask{
+  width: 250px;
+  height: 220px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hummerImage{
+  width: 410px;
+  height: 270px;
+}
+.Select-menu-outer {
+  z-index: 100 !important;
+}
